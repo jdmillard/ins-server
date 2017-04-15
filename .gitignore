@@ -12,3 +12,11 @@
 # except these
 !/insurgency/mapcycle_millard.txt
 !/insurgency/motd.txt
+
+# don't ignore this folder
+!/insurgency/cfg
+# ignore all the contents of this folder
+/insurgency/cfg/*
+# except these
+!/insurgency/cfg/server.cfg
+!/insurgency/cfg/server_checkpoint.cfg
