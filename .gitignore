@@ -4,6 +4,8 @@
 # except these
 !.gitignore
 !insurgency_start.bat
+!README.md
+!LICENSE.txt
 
 # don't ignore this folder
 !/insurgency
