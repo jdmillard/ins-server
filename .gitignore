@@ -4,6 +4,7 @@
 # except these
 !.gitignore
 !insurgency_start.bat
-!insurgency/mapcycle_millard.txt
+!insurgency/*
+//mapcycle_millard.txt
 //insurgency/*
 //!insurgency/cfg
