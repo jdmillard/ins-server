@@ -1,9 +1,14 @@
 # ignore everything
-*
+/*
 
 # except these
 !.gitignore
 !insurgency_start.bat
-!insurgency/mapcycle_millard.txt
-//insurgency/*
-//!insurgency/cfg
+
+# don't ignore this folder
+!/insurgency
+# ignore all the contents of this folder
+/insurgency/*
+# except these
+!/insurgency/mapcycle_millard.txt
+!/insurgency/motd.txt

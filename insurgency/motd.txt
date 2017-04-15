@@ -1,0 +1,9 @@
+- custom maps for checkpoint
+- increased bot count
+- increased bot difficulty
+- many supply points
+- spawn protection (4 seconds)
+- improved voting
+- reduced starting timers
+- slightly reduced capture timers
+- filtered language (with soap.vpk)
