@@ -1,0 +1,78 @@
+// ORIGINAL MAPS
+buhriz_coop checkpoint
+contact_coop checkpoint
+district_coop checkpoint
+drycanal_coop checkpoint
+embassy_coop checkpoint
+heights_coop checkpoint
+market_coop checkpoint
+ministry_coop checkpoint
+revolt_coop checkpoint
+siege_coop checkpoint
+sinjar_coop checkpoint
+tell_coop checkpoint
+verticality_coop checkpoint
+
+// ADDED (FIRST ROUND)
+badlands_coop_b1 checkpoint
+bunker_busting_coopv1_5 checkpoint
+congress_coop checkpoint
+crossbowv1_1 checkpoint
+cu_chi_tunnels checkpoints
+// desert_island_v8 checkpoint
+dust2_checkpoint_b7 checkpoint
+// healthcenter_coop_20 checkpoint // strange graphics artifacts
+jail_break_coopv1_2 checkpoint
+karkand_redux_p2_v1 checkpoint
+launch_control_coopv1_9 checkpoint
+tet checkpoint
+
+// ADDED (SECOND ROUND)
+baghdad_b5 checkpoint
+//doi_bridgeatremagen checkpoint
+//doi_iron_cross checkpoint
+//doi_landfall checkpoint
+//doi_metz checkpoint
+//doi_ps7 checkpoint
+//doi_resistance checkpoint
+estates_b4 checkpoint
+ins_abdallah_new_coop checkpoint
+panama_canal_b2 checkpoint
+winter_rescue_v1 checkpoint
+
+// ADDED (THIRD ROUND)
+inferno_checkpoint_b2 checkpoint
+
+
+// OUTPOST MAPS
+//buhriz outpost
+//buhriz_night outpost
+//contact outpost
+//contact_night outpost
+//district outpost
+//district_night outpost
+//embassy outpost
+//embassy_night outpost
+//heights outpost
+//heights_night outpost
+//kandagal outpost
+//kandagal_night outpost
+//market outpost
+//market_night outpost
+//ministry outpost
+//ministry_night outpost
+//panj outpost
+//panj_night outpost
+//peak outpost
+//peak_night outpost
+//revolt outpost
+//revolt_night outpost
+//siege outpost
+//sinjar outpost
+//sinjar_night outpost
+//station outpost
+//station_night outpost
+//tell outpost
+//tell_night outpost
+//uprising outpost
+//verticality_night outpost
