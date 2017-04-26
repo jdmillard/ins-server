@@ -43,6 +43,8 @@ winter_rescue_v1 checkpoint
 // ADDED (THIRD ROUND)
 inferno_checkpoint_b2 checkpoint
 
+// ADDED (FOURTH ROUND)
+khe_sanh checkpoint
 
 // OUTPOST MAPS
 //buhriz outpost
