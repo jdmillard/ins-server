@@ -6,4 +6,6 @@
 - improved voting
 - reduced starting timers
 - slightly reduced capture timers
-- filtered language (with soap.vpk)
+- filtered language
+- beginning speech skipped
+- silent restricted area warnings
