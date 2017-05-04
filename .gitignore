@@ -14,6 +14,7 @@
 # except these
 !/insurgency/mapcycle_millard.txt
 !/insurgency/motd.txt
+!/insurgency/subscribed_file_ids.txt
 
 # don't ignore this folder
 !/insurgency/cfg
