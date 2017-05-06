@@ -46,6 +46,9 @@ inferno_checkpoint_b2 checkpoint
 // ADDED (FOURTH ROUND)
 khe_sanh checkpoint
 
+// TESTING
+cs_workout_v1 checkpoint
+
 // OUTPOST MAPS
 //buhriz outpost
 //buhriz_night outpost
