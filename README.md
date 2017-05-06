@@ -3,7 +3,7 @@
 How to clone the contents of this repo into an existing folder, overwriting existing files:
 ```bash
 # navigate to installation
-cd /path/to/library/common/Insurgency\ Dedicated\ Server/
+cd /install/path/Insurgency\ Dedicated\ Server/steamapps/common/Insurgency\ Dedicated\ Server/
 # initialize the repo
 git init
 # assign to proper remote
