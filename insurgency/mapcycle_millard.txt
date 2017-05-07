@@ -46,8 +46,9 @@ inferno_checkpoint_b2 checkpoint
 // ADDED (FOURTH ROUND)
 khe_sanh checkpoint
 
-// TESTING
+// TESTING workshop server forcing
 cs_workout_v1 checkpoint
+Takbar checkpoint
 
 // OUTPOST MAPS
 //buhriz outpost
