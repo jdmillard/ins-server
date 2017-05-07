@@ -46,7 +46,8 @@ inferno_checkpoint_b2 checkpoint
 // ADDED (FOURTH ROUND)
 khe_sanh checkpoint
 
-// TESTING workshop server forcing
+// FROM WORKSHOP (eventually make all added maps this way)
+// THESE HAVE A WORKSHOP ID IN subscribed_file_ids.txt
 cs_workout_v1 checkpoint
 Takbar checkpoint
 
