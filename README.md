@@ -24,5 +24,6 @@ git branch -u origin/master
  | subscribed_file_ids.txt | specifies what workshop content is enforced    |
  | server.cfg              | general server settings                        |
  | server_checkpoint.cfg   | checkpoint mode settings                       |
+ | server_hunt.cfg         | hunt mode settings                             |
  | mapcycle_millard.txt    | list of maps which can be voted for by players |
  | motd.txt                | server message (seen by players while loading) |

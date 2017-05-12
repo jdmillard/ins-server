@@ -5,3 +5,5 @@
 815189600 // cs_workout_v1
 814433362 // Takbar
 498253639 // amber_spirits_coop
+
+// eventually make all maps work this way
