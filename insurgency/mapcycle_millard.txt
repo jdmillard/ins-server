@@ -50,6 +50,12 @@ khe_sanh checkpoint
 // THESE HAVE A WORKSHOP ID IN subscribed_file_ids.txt
 cs_workout_v1 checkpoint
 Takbar checkpoint
+amber_spirits_coop checkpoint
+
+
+// HUNT MAPS
+verticality hunt
+
 
 // OUTPOST MAPS
 //buhriz outpost
