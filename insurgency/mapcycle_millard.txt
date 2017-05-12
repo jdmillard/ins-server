@@ -54,6 +54,7 @@ amber_spirits_coop checkpoint
 
 
 // HUNT MAPS
+market_night hunt
 verticality hunt
 
 
