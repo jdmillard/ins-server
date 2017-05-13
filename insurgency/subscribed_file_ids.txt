@@ -1,5 +1,6 @@
 // mods
 918720488 // soap
+802036060 // kobra sight
 
 // maps
 815189600 // cs_workout_v1
