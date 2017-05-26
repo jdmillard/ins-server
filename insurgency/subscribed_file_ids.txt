@@ -5,5 +5,6 @@
 815189600 // cs_workout_v1
 814433362 // Takbar
 498253639 // amber_spirits_coop
+//333011521 // Embassy_Coop (not downloading)
 
 // eventually make all maps work this way

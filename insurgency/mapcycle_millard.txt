@@ -51,6 +51,7 @@ khe_sanh checkpoint
 cs_workout_v1 checkpoint
 Takbar checkpoint
 amber_spirits_coop checkpoint
+Embassy_Coop checkpoint
 
 
 // HUNT MAPS
