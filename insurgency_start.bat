@@ -12,6 +12,9 @@ if "%@pc_name%" == "DESKTOP-OJA1CR9" (set @server_name=insurgency_texas)
 :: set server name for John's server
 if "%@pc_name%" == "MILLARD" (set @server_name=insurgency_arizona)
 
+:: set server name for Dad's server
+if "%@pc_name%" == "DESKTOP-54TQPLV" (set @server_name=insurgency_california)
+
 IF [%@server_name%]==[] (
   echo no preset server name for this computer, using default.
   set @server_name=insurgency_millard
