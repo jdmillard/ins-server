@@ -1,10 +1,29 @@
 // mods
 918720488 // soap
+294800641 // No Swearing
+267704140 // Veteran Insurgent Skins v4
 
 // maps
-815189600 // cs_workout_v1
-814433362 // Takbar
-498253639 // amber_spirits_coop
-//333011521 // Embassy_Coop (not downloading)
+815189600  // cs_workout_v1
+814433362  // Takbar
+573278223  // panama_canal_b2
+650616844  // Estates_b4
+1207457291 // cs_italy_coop
+605055192  // crossbow
+292081732  // launch_control_coop_ws
+532461305  // badlands_b1
+537546276  // cu_chi_tunnels
+426720530  // baghdad_b5
+1172671775 // warehouse_coopv3b3
+841479518  // khe_sanh
+283120201  // bunker_busting_coop_ws
+797028573  // congress_coop
+599730897  // dust2_checkpoint_b8
+292080383  // jail_break_coop_ws
+603342622  // inferno_checkpoint_b2
+576037848  // tet
 
-// eventually make all maps work this way
+// workshop maps with broken download
+//358014119 // winter_rescue_v1
+//256308533 // ins_abdallah_new_coop
+//393352418 // karkand_coop
