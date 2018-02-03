@@ -22,6 +22,8 @@
 292080383  // jail_break_coop_ws
 603342622  // inferno_checkpoint_b2
 576037848  // tet
+1100308618 // fa-hijacked_v1
+1096591824 // fa-winter_rescue
 
 // workshop maps with broken download
 //358014119 // winter_rescue_v1

@@ -32,6 +32,8 @@ panama_canal_b2 checkpoint
 Takbar checkpoint
 tet checkpoint
 warehouse_coopv3b3 checkpoint
+fa-hijacked_v1 checkpoint
+fa-winter_rescue checkpoint
 
 
 // CONQUER MAPS
