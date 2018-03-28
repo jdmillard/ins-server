@@ -25,7 +25,7 @@ echo pc name: %@pc_name%
 echo server name: %@server_name%
 
 :start
-start /wait /abovenormal srcds.exe -game insurgency -usercon -port 27015 +hostname "%@server_name%" +map "badlands_b1 checkpoint" +maxplayers 64 +sv_workshop_enabled 1
+start /wait /abovenormal srcds.exe -game insurgency -usercon -port 27015 +hostname "%@server_name%" +map "tell_coop checkpoint" +maxplayers 64 +sv_workshop_enabled 1
 :: with these bot settings, do not start on market_coop map
 :: i chopped off these arguments fyi
 :: -ip <xxx.xxx.xxx.xxx-internal ip> +sv_lan 0

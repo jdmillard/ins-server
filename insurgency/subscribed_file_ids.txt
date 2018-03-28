@@ -24,8 +24,3 @@
 576037848  // tet
 1100308618 // fa-hijacked_v1
 1096591824 // fa-winter_rescue
-
-// workshop maps with broken download
-//358014119 // winter_rescue_v1
-//256308533 // ins_abdallah_new_coop
-//393352418 // karkand_coop
