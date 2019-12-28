@@ -18,7 +18,7 @@ if "%@pc_name%" == "DESKTOP-54TQPLV" (set @server_name="[MIL] (San Diego) Extra 
 
 IF [%@server_name%]==[] (
   echo no preset server name for this computer, using default.
-  set @server_name=insurgency_millard
+  set @server_name="[MIL] Extra Maps | Conquer | Hunt | Checkpoint"
 )
 
 :: display pc and server names
