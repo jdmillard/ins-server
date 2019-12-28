@@ -38,6 +38,10 @@ fa-winter_rescue checkpoint
 
 // CONQUER MAPS
 tell conquer
+buhriz conquer
+crossbow conquer
+drycanal conquer
+market conquer
 
 
 // HUNT MAPS
@@ -45,4 +49,4 @@ verticality hunt
 
 
 // OUTPOST MAPS
-buhriz outpost
+//buhriz outpost
