@@ -37,16 +37,42 @@ fa-winter_rescue checkpoint
 
 
 // CONQUER MAPS
-tell conquer
-buhriz conquer
 crossbow conquer
 drycanal conquer
+buhriz conquer
+contact conquer
+district conquer
+embassy conquer
+heights conquer
+kandagal conquer
 market conquer
+ministry conquer
+panj conquer
+peak conquer
+revolt conquer
+siege conquer
+sinjar conquer
+station conquer
+tell conquer
+tell_coop conquer
+uprising conquer
+verticality conquer
 
 
 // HUNT MAPS
+panama_canal_b2 hunt
+buhriz hunt
+contact hunt
+district hunt
+embassy hunt
+kandagal hunt
+market hunt
+ministry hunt
+panj hunt
+peak hunt
+revolt hunt
+siege hunt
+sinjar hunt
+station hunt
+uprising hunt
 verticality hunt
-
-
-// OUTPOST MAPS
-//buhriz outpost
