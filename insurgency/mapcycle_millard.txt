@@ -31,9 +31,9 @@ launch_control_coop_ws checkpoint
 panama_canal_b2 checkpoint
 Takbar checkpoint
 tet checkpoint
-warehouse_coopv3b3 checkpoint
+//warehouse_coopv3b3 checkpoint // causing errors
 fa-hijacked_v1 checkpoint
-fa-winter_rescue checkpoint
+//fa-winter_rescue checkpoint // appears to have been removed
 
 
 // CONQUER MAPS
@@ -57,6 +57,13 @@ tell conquer
 tell_coop conquer
 uprising conquer
 verticality conquer
+//cs_italy_coop conquer       // workshop - didn't work for conquer
+//dust2_checkpoint_b8 conquer // workshop - didn't work for conquer
+khe_sanh conquer              // workshop
+panama_canal_b2 conquer       // workshop
+frequency conquer             // workshop
+convoy_pve conquer            // workshop
+badlands_b1 conquer           // workshop
 
 
 // HUNT MAPS
@@ -64,15 +71,23 @@ panama_canal_b2 hunt
 buhriz hunt
 contact hunt
 district hunt
+drycanal hunt
 embassy hunt
+heights hunt
 kandagal hunt
 market hunt
 ministry hunt
 panj hunt
+panj_night hunt
 peak hunt
 revolt hunt
 siege hunt
 sinjar hunt
 station hunt
+tell hunt
 uprising hunt
 verticality hunt
+frequency hunt
+
+// OUTPOST MAPS
+kandagal outpost

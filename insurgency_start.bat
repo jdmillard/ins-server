@@ -4,7 +4,7 @@ title Insurgency Server
 set @pc_name=%computername%
 
 :: set server name for Jeff's server
-if "%@pc_name%" == "VALENCIA" (set @server_name="[MIL] (Boston) No Night Maps | Conquer | Hunt | Checkpoint")
+if "%@pc_name%" == "VALENCIA" (set @server_name="[MIL] (San Diego) No Night Maps | Conquer | Hunt | Checkpoint")
 
 :: set server name for Jordan's server
 if "%@pc_name%" == "DESKTOP-OJA1CR9" (set @server_name="[MIL] (Austin) No Night Maps | Conquer | Hunt | Checkpoint")
@@ -25,7 +25,7 @@ echo pc name: %@pc_name%
 echo server name: %@server_name%
 
 :start
-start /wait /abovenormal srcds.exe -game insurgency -console -usercon -port 27016 +hostname %@server_name% +maxplayers 64 +sv_lan 0 +map "buhriz conquer" +sv_workshop_enabled 1
+start /wait /abovenormal srcds.exe -game insurgency -console -usercon -port 27016 +hostname %@server_name% +maxplayers 64 +sv_lan 0 +map "market conquer" +sv_workshop_enabled 1
 ::+hostname "%@server_name%"
 :: note from experience: with these bot settings, don't start on market_coop
 goto start
