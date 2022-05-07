@@ -23,4 +23,5 @@
 # except these
 !/insurgency/cfg/server.cfg
 !/insurgency/cfg/server_checkpoint.cfg
+!/insurgency/cfg/server_conquer.cfg
 !/insurgency/cfg/server_hunt.cfg
